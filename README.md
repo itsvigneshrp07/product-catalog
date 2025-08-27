@@ -147,3 +147,6 @@ Run unit tests with:
 ```
 
 Tests include validation of Category Cache (first DB hit vs subsequent cache hits, and cache refresh on update).
+
+## 📹 Demo Video
+Watch the project demo here: [YouTube Video](https://www.youtube.com/watch?v=i0UvTCNjLXE)
